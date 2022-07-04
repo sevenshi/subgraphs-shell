@@ -1,0 +1,7 @@
+export npm_config_subgraph=balancer-forks 
+export npm_config_protocol=beethoven-x 
+export npm_config_template=balancer.v2.template.yaml
+export npm_config_network=optimism
+export npm_config_location=sevenshi 
+export npm_config_printlogs=true 
+export npm_config_merge=false
